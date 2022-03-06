@@ -3,8 +3,6 @@
 
 I am a Support, Physics and Software Engineer. My professional experience with technologies is listed in the toolbox below. 
 
----
-
 🧰 Toolbox
 
 ### Web Development
@@ -18,13 +16,13 @@ I am a Support, Physics and Software Engineer. My professional experience with t
 
 
 
----
 
 ---
 
 ### &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-sofia-silva&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-sofia-silva&hide=java,html,css&layout=compact
+)](https://github.com/anuraghazra/github-readme-stats)
 
 [![mystat](https://github-readme-stats.vercel.app/api?username=ana-sofia-silva&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
