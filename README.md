@@ -24,11 +24,6 @@ I am a Support, Physics and Software Engineer. My professional experience with t
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-sofia-silva&hide=java,html,css&layout=compact
 )](https://github.com/anuraghazra/github-readme-stats)
 
-[![mystat](https://github-readme-stats.vercel.app/api?username=ana-sofia-silva&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 
 
 <!--
