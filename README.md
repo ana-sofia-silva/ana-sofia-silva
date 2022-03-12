@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ana!
 
 
-I am a Support, Physics and Software Engineer. My professional experience with technologies is listed in the toolbox below. 
+I am a Support, Physics and Software Engineer. 
 
 
 
